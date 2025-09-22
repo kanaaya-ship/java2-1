@@ -5,6 +5,7 @@ public class Exp2_1 {
 		//System.out.println("計算結果を確認します" );
 		System.out.println("計算結果は" + (5 * 3 - 18 / 6));
 		System.out.println("0より小さくないりませんでした");
+		
 	}
 
 }
